@@ -1,0 +1,7 @@
+{
+  "ignore": [
+    "common/as-org-db/*",
+    "common/as-rel-db/*",
+    "common/maxmind-db/*"
+  ]
+}
